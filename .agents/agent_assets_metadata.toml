@@ -1,0 +1,32 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "s2rvQL1q9SIX_kqyU9gGs"
+uri = "file://artifacts/trans-catelan/public/hero-bg.jpg"
+type = "image"
+title = "semi-truck driving on open highway golden hour sunlight landscape Brazil"
+
+[[outputs]]
+id = "4YRWNigFCOVe0tK7GMk07"
+uri = "file://artifacts/trans-catelan/public/fleet.jpg"
+type = "image"
+title = "semi-truck fleet parked logistics transportation"
+
+[[outputs]]
+id = "H2zeJvXWcQ1ALP0gw-30R"
+uri = "file://artifacts/trans-catelan/public/soy-field.jpg"
+type = "image"
+title = "soybean field harvest agriculture landscape golden hour"
+
+[[outputs]]
+id = "PRJ1QGR1tDrguIAVy6m32"
+uri = "file://artifacts/trans-catelan/public/tires.jpg"
+type = "image"
+title = "truck tires heavy duty stacked"
+
+[[outputs]]
+id = "AFI2HyIBHb-0lrhEgwXc7"
+uri = "file://artifacts/trans-catelan/public/parts.jpg"
+type = "image"
+title = "mechanic garage truck parts warehouse heavy machinery"
