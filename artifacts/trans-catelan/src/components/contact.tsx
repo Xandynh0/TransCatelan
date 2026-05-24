@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Instagram, MapPin, Phone, Mail, FileText } from "lucide-react";
+import { MapPin, Phone, Mail, FileText } from "lucide-react";
 import { Button } from "./ui/button";
 
 export function Contact() {
@@ -70,19 +70,6 @@ export function Contact() {
               </div>
             </div>
 
-            <div className="mt-12 pt-8 border-t border-secondary-foreground/10">
-              <a 
-                href="https://www.instagram.com/luizcatelan/" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-3 text-lg font-medium hover:text-primary transition-colors group"
-              >
-                <span className="w-10 h-10 bg-secondary-foreground/10 rounded-full flex items-center justify-center group-hover:bg-primary/20 transition-colors">
-                  <Instagram className="w-5 h-5" />
-                </span>
-                Siga Luiz Catelan no Instagram
-              </a>
-            </div>
           </motion.div>
 
           <motion.div
